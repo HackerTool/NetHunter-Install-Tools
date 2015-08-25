@@ -20,11 +20,11 @@ Recovery使用的是官方的版本，TWRP版本的Recovery只是临时加载，
 然后按照脚本里的提升输入指定的编号开始操作，必须在脚本的所在目录执行，不能在其他目录里执行</br>
 
 正常刷NetHunter的步骤：</br>
- 1. 运行 ./nethunter-linux.sh</br>
- 2. 输入 1 解锁设备</br>
- 3. 输入 3 刷 Android 系统</br>
- 4. 输入 2 进行Root</br>
- 5. 输入 4 刷 NetHunter</br>
+* 1. 运行 ./nethunter-linux.sh</br>
+* 2. 输入 1 解锁设备</br>
+* 3. 输入 3 刷 Android 系统</br>
+* 4. 输入 2 进行Root</br>
+* 5. 输入 4 刷 NetHunter</br>
 
 更多的功能在 5 More 里可以找到</br>
 
